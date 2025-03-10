@@ -1,4 +1,4 @@
-# Galeria-Flex
+# Galeria-Grid
 
 ![](./preview.png)
 
