@@ -1,6 +1,6 @@
 # Galeria-Flex
 
-![]()
+![](./preview.png)
 
 Primeira galeria feita no modelo flex
 
